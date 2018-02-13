@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "feekesnet",
+    "description": "",
+    "home_page_url": "https://feekes.github.io",
+    "feed_url": "https://feekes.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Feekes"
+    },
+    "items": [
+        {
+            "id": "https://feekes.github.io/moving-over-to-github-pages.html",
+            "url": "https://feekes.github.io/moving-over-to-github-pages.html",
+            "title": "Moving over to GitHub Pages",
+            "content_html": "With the servers over at GoDaddy constantly under attack, and constantly being infected by malware, i've decided to take my ball and head home. GitHub is awesome and I have used it for years for project hosting without issue, so why not move my blog there. Thanks GitHub. Hope to get some more content up soon.",
+            "image": "https://feekes.github.io/media/posts/1/30822997-ab05de10-a1df-11e7-87c5-fc7e0de669ff1.png",
+            "author": {
+                "name": "Feekes"
+            },
+            "tags": [
+                   "General"
+            ],
+            "date_published": "2018-02-13T17:25:44-06:00",
+            "date_modified": "2018-02-13T17:34:24-06:00"
+        }
+    ]
+}
